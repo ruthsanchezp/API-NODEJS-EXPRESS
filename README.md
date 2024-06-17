@@ -12,22 +12,6 @@ En este proyecto, realizarás dos actividades principales:
 - **Control de Versiones**: Implementa un archivo `.gitignore` para excluir carpetas y archivos especificados del repositorio.
 - **Arquitectura de Carpetas Clara**: Estructura tu proyecto como se muestra a continuación. Puedes añadir más archivos, rutas, controladores, o simplificar según lo prefieras. El objetivo es localizar fácilmente las asignaciones de responsabilidad dentro de tu código.
 
-### Estructura del Proyecto
-
-EJEMPLO_TU_PROYECTO
-├─ .env
-├─ .prettierrc
-├─ README.md
-├─ controllers
-│ └─ TU_CONTROLADOR.js
-├─ package-lock.json
-├─ package.json
-├─ routes
-│ └─ TU_RUTA.js
-└─ server.js <- ARCHIVO DE ENTRADA
-
-
-
 ## Implementación de Endpoints
 Implementa los siguientes 10 endpoints:
 
