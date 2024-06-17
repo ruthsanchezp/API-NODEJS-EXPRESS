@@ -1,6 +1,5 @@
 # Sistema de Gestión de Reservas de Hotel
 
-## ¿Qué construirás?
 En este proyecto, realizarás dos actividades principales:
 
 1. **Construir una Aplicación de Gestión de Reservas de Hotel**: Esta aplicación incluirá las cuatro operaciones CRUD y seis funcionalidades adicionales relacionadas con filtros, todo utilizando Node.js y Express.
