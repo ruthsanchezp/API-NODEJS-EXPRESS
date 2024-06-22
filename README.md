@@ -1,4 +1,4 @@
-# Sistema de Gestión de Reservas de Hotel
+# Sistema de Gestión de Reservas
 
 En este proyecto, realizarás dos actividades principales:
 
